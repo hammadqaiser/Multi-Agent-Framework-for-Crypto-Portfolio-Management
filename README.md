@@ -5,7 +5,8 @@ Crypto MAS Project aims to replicate the workflow of a crypto asset management f
 <p align="center">
   <img src="assets/Project_Vision.png" style="width: 80%; height: auto;">
 </p>
-> Crypto MAS framework is designed for research purposes. It is not intended as financial, investment, or trading advice. Trading performance may vary based on many factors, such as the chosen language models, model temperature, trading periods, the quality of data, and other non-deterministic factors.
+
+> Crypto MAS framework is designed for research purposes. It is not intended as financial, investment, or trading advice. Trading decisions may vary based on many factors, such as the chosen language models, model temperature, trading periods, the quality of data, and other non-deterministic factors.
 
 ## Crypto MAS Architecture
 <p align="center">
