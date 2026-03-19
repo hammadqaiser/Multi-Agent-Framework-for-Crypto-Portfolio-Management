@@ -38,7 +38,7 @@ Crypto MAS Project aims to replicate the workflow of a crypto asset management f
 Clone Crypto MAS Project:
 ```bash
 git clone https://github.com/hammadqaiser/Multi-Agent-Framework-for-Crypto-Portfolio-Management.git
-cd CryptoMAS
+cd Multi-Agent-Framework-for-Crypto-Portfolio-Management
 ```
 
 ## Author
